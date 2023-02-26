@@ -1,0 +1,49 @@
+body {
+    background-image: url(images/ascension-sponge-bob.gif);
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-family: 'IMPACT';
+    -webkit-text-stroke: 2px black; /* width and color */
+}
+
+h2 {
+    text-align: center;
+    color: white;
+    font-family: IMPACT;
+    -webkit-text-stroke: 2px black; /* width and color */
+    font-size:xx-large;
+}
+
+#one {
+    width: 25%;
+    height: 25%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+#two {
+   font-family: Impact;
+   font-size: xx-large;
+   color: white;
+   -webkit-text-stroke: 2px black; /* width and color */
+}
+
+.nav {
+    width: 150px;
+    height: 73px;
+    background-color: limegreen;
+    border: 5px outset black;
+    text-align: center;
+}
+
+.div2 {
+    text-align: center;
+}
+
+#uno {
+    color: white;
+}

@@ -1,0 +1,123 @@
+body {
+    background-image: url(images/chonk.png);
+}
+
+h1 {
+    text-align: center;
+    color: black;
+    font-family: Impact;
+}
+
+.nav {
+    width: 150px;
+    height: 73px;
+    background-color: limegreen;
+    border: 5px outset black;
+    text-align: center;
+}
+
+.duckdiv {
+    background-color: black;
+    margin: auto;
+    width: 60%;
+    height: 1950px;
+}
+
+.title {
+    text-align: center;
+    font-family: 'Times New Roman';
+    color: white
+}
+
+.img1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    width: 500px;
+    height: 250px;
+}
+
+.desc1 {
+    text-align: center;
+    color: white;
+    font-family: Arial;
+}
+
+.img2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+.desc2 {
+    text-align: center;
+    color: white;
+    font-family: Arial;
+}
+
+.img3 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.desc3 {
+    text-align: center;
+    color: white;
+    font-family: Arial;
+}
+
+.img4 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.desc4 {
+    text-align: center;
+    color: white;
+    font-family: Arial; 
+}
+
+.img5 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.desc5 {
+    text-align: center;
+    color: white;
+    font-family: Arial;
+}
+
+.desc6{
+    text-align: center;
+    color: white;
+    font-family: Blackadder ITC; 
+    font-size: x-large;
+}
+
+.pagediv {
+    text-align: center;
+}
+
+.next {
+    border: 2px outset black;
+    background-color: white;
+    margin: auto;
+    width: 85px;
+    text-align: center;
+}
+
+.ratediv {
+    text-align: center;
+}
+
+.rate {
+    border: 2px outset black;
+    background-color: white;
+    margin: auto;
+    width: 85px;
+    text-align: center;
+}

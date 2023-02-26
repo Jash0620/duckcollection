@@ -1,0 +1,56 @@
+body {
+    background-image: url(images/maui.jpeg)
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-family: Impact;
+}
+
+#one {
+    text-align: center;
+}
+
+#uno {
+    color: red;
+    text-align: center;
+    font-size: large;
+}
+
+#dos {
+    color:white;
+    text-align: center;
+    font-size: large;
+}
+
+.nav {
+    width: 150px;
+    height: 73px;
+    background-color: limegreen;
+    border: 5px outset black;
+    text-align: center;
+}
+
+.div1 {
+    text-align: center;
+}
+
+.div2 {
+    background-color: grey;
+    text-align: center;
+    margin: auto;
+    width: 40%;
+    height: 150px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1425px;
+    height: 200px ;
+}
+
+
+
